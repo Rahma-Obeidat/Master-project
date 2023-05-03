@@ -1,0 +1,1541 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Masters3\\Masters3\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Masters3.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Masters3.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\AdminDash\\css\\app.css",
+      "PackagePath": "staticwebassets\\AdminDash\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\AdminDash\\css\\app.css.map",
+      "PackagePath": "staticwebassets\\AdminDash\\css\\app.css.map"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\AdminDash\\fonts\\.gitkeep",
+      "PackagePath": "staticwebassets\\AdminDash\\fonts\\.gitkeep"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\AdminDash\\img\\avatars\\avatar-2.jpg",
+      "PackagePath": "staticwebassets\\AdminDash\\img\\avatars\\avatar-2.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\AdminDash\\img\\avatars\\avatar-3.jpg",
+      "PackagePath": "staticwebassets\\AdminDash\\img\\avatars\\avatar-3.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\AdminDash\\img\\avatars\\avatar-4.jpg",
+      "PackagePath": "staticwebassets\\AdminDash\\img\\avatars\\avatar-4.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\AdminDash\\img\\avatars\\avatar-5.jpg",
+      "PackagePath": "staticwebassets\\AdminDash\\img\\avatars\\avatar-5.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\AdminDash\\img\\avatars\\avatar.jpg",
+      "PackagePath": "staticwebassets\\AdminDash\\img\\avatars\\avatar.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\AdminDash\\img\\icons\\icon-48x48.png",
+      "PackagePath": "staticwebassets\\AdminDash\\img\\icons\\icon-48x48.png"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\AdminDash\\img\\photos\\unsplash-1.jpg",
+      "PackagePath": "staticwebassets\\AdminDash\\img\\photos\\unsplash-1.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\AdminDash\\img\\photos\\unsplash-2.jpg",
+      "PackagePath": "staticwebassets\\AdminDash\\img\\photos\\unsplash-2.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\AdminDash\\img\\photos\\unsplash-3.jpg",
+      "PackagePath": "staticwebassets\\AdminDash\\img\\photos\\unsplash-3.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\AdminDash\\js\\app.js",
+      "PackagePath": "staticwebassets\\AdminDash\\js\\app.js"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\AdminDash\\js\\app.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\AdminDash\\js\\app.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\AdminDash\\js\\app.js.map",
+      "PackagePath": "staticwebassets\\AdminDash\\js\\app.js.map"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\AdminDash\\src\\fonts\\.gitkeep",
+      "PackagePath": "staticwebassets\\AdminDash\\src\\fonts\\.gitkeep"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\AdminDash\\src\\img\\avatars\\avatar-2.jpg",
+      "PackagePath": "staticwebassets\\AdminDash\\src\\img\\avatars\\avatar-2.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\AdminDash\\src\\img\\avatars\\avatar-3.jpg",
+      "PackagePath": "staticwebassets\\AdminDash\\src\\img\\avatars\\avatar-3.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\AdminDash\\src\\img\\avatars\\avatar-4.jpg",
+      "PackagePath": "staticwebassets\\AdminDash\\src\\img\\avatars\\avatar-4.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\AdminDash\\src\\img\\avatars\\avatar-5.jpg",
+      "PackagePath": "staticwebassets\\AdminDash\\src\\img\\avatars\\avatar-5.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\AdminDash\\src\\img\\avatars\\avatar.jpg",
+      "PackagePath": "staticwebassets\\AdminDash\\src\\img\\avatars\\avatar.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\AdminDash\\src\\img\\icons\\icon-48x48.png",
+      "PackagePath": "staticwebassets\\AdminDash\\src\\img\\icons\\icon-48x48.png"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\AdminDash\\src\\img\\photos\\unsplash-1.jpg",
+      "PackagePath": "staticwebassets\\AdminDash\\src\\img\\photos\\unsplash-1.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\AdminDash\\src\\img\\photos\\unsplash-2.jpg",
+      "PackagePath": "staticwebassets\\AdminDash\\src\\img\\photos\\unsplash-2.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\AdminDash\\src\\img\\photos\\unsplash-3.jpg",
+      "PackagePath": "staticwebassets\\AdminDash\\src\\img\\photos\\unsplash-3.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\AdminDash\\src\\js\\app.js",
+      "PackagePath": "staticwebassets\\AdminDash\\src\\js\\app.js"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\AdminDash\\src\\js\\modules\\bootstrap.js",
+      "PackagePath": "staticwebassets\\AdminDash\\src\\js\\modules\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\AdminDash\\src\\js\\modules\\chartjs.js",
+      "PackagePath": "staticwebassets\\AdminDash\\src\\js\\modules\\chartjs.js"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\AdminDash\\src\\js\\modules\\feather.js",
+      "PackagePath": "staticwebassets\\AdminDash\\src\\js\\modules\\feather.js"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\AdminDash\\src\\js\\modules\\flatpickr.js",
+      "PackagePath": "staticwebassets\\AdminDash\\src\\js\\modules\\flatpickr.js"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\AdminDash\\src\\js\\modules\\sidebar.js",
+      "PackagePath": "staticwebassets\\AdminDash\\src\\js\\modules\\sidebar.js"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\AdminDash\\src\\js\\modules\\theme.js",
+      "PackagePath": "staticwebassets\\AdminDash\\src\\js\\modules\\theme.js"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\AdminDash\\src\\js\\modules\\vector-maps.js",
+      "PackagePath": "staticwebassets\\AdminDash\\src\\js\\modules\\vector-maps.js"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\AdminDash\\src\\scss\\1-variables\\_app.scss",
+      "PackagePath": "staticwebassets\\AdminDash\\src\\scss\\1-variables\\_app.scss"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\AdminDash\\src\\scss\\2-mixins\\_button.scss",
+      "PackagePath": "staticwebassets\\AdminDash\\src\\scss\\2-mixins\\_button.scss"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\AdminDash\\src\\scss\\3-components\\_avatar.scss",
+      "PackagePath": "staticwebassets\\AdminDash\\src\\scss\\3-components\\_avatar.scss"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\AdminDash\\src\\scss\\3-components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\AdminDash\\src\\scss\\3-components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\AdminDash\\src\\scss\\3-components\\_card.scss",
+      "PackagePath": "staticwebassets\\AdminDash\\src\\scss\\3-components\\_card.scss"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\AdminDash\\src\\scss\\3-components\\_chart.scss",
+      "PackagePath": "staticwebassets\\AdminDash\\src\\scss\\3-components\\_chart.scss"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\AdminDash\\src\\scss\\3-components\\_content.scss",
+      "PackagePath": "staticwebassets\\AdminDash\\src\\scss\\3-components\\_content.scss"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\AdminDash\\src\\scss\\3-components\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\AdminDash\\src\\scss\\3-components\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\AdminDash\\src\\scss\\3-components\\_feather.scss",
+      "PackagePath": "staticwebassets\\AdminDash\\src\\scss\\3-components\\_feather.scss"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\AdminDash\\src\\scss\\3-components\\_footer.scss",
+      "PackagePath": "staticwebassets\\AdminDash\\src\\scss\\3-components\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\AdminDash\\src\\scss\\3-components\\_hamburger.scss",
+      "PackagePath": "staticwebassets\\AdminDash\\src\\scss\\3-components\\_hamburger.scss"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\AdminDash\\src\\scss\\3-components\\_list-group.scss",
+      "PackagePath": "staticwebassets\\AdminDash\\src\\scss\\3-components\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\AdminDash\\src\\scss\\3-components\\_main.scss",
+      "PackagePath": "staticwebassets\\AdminDash\\src\\scss\\3-components\\_main.scss"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\AdminDash\\src\\scss\\3-components\\_navbar.scss",
+      "PackagePath": "staticwebassets\\AdminDash\\src\\scss\\3-components\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\AdminDash\\src\\scss\\3-components\\_reboot.scss",
+      "PackagePath": "staticwebassets\\AdminDash\\src\\scss\\3-components\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\AdminDash\\src\\scss\\3-components\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\AdminDash\\src\\scss\\3-components\\_sidebar.scss"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\AdminDash\\src\\scss\\3-components\\_sizing.scss",
+      "PackagePath": "staticwebassets\\AdminDash\\src\\scss\\3-components\\_sizing.scss"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\AdminDash\\src\\scss\\3-components\\_stat.scss",
+      "PackagePath": "staticwebassets\\AdminDash\\src\\scss\\3-components\\_stat.scss"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\AdminDash\\src\\scss\\3-components\\_tables.scss",
+      "PackagePath": "staticwebassets\\AdminDash\\src\\scss\\3-components\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\AdminDash\\src\\scss\\3-components\\_type.scss",
+      "PackagePath": "staticwebassets\\AdminDash\\src\\scss\\3-components\\_type.scss"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\AdminDash\\src\\scss\\3-components\\_wrapper.scss",
+      "PackagePath": "staticwebassets\\AdminDash\\src\\scss\\3-components\\_wrapper.scss"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\AdminDash\\src\\scss\\4-utilities\\_cursors.scss",
+      "PackagePath": "staticwebassets\\AdminDash\\src\\scss\\4-utilities\\_cursors.scss"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\AdminDash\\src\\scss\\5-vendor\\_flatpickr.scss",
+      "PackagePath": "staticwebassets\\AdminDash\\src\\scss\\5-vendor\\_flatpickr.scss"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\AdminDash\\src\\scss\\5-vendor\\_simplebar.scss",
+      "PackagePath": "staticwebassets\\AdminDash\\src\\scss\\5-vendor\\_simplebar.scss"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\AdminDash\\src\\scss\\app.scss",
+      "PackagePath": "staticwebassets\\AdminDash\\src\\scss\\app.scss"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\Img\\19.PNG",
+      "PackagePath": "staticwebassets\\Img\\19.PNG"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\Img\\2021-OEM-Crystal-Wine-Cup-Drinking-Glass-Cup.jpg",
+      "PackagePath": "staticwebassets\\Img\\2021-OEM-Crystal-Wine-Cup-Drinking-Glass-Cup.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\Img\\22.PNG",
+      "PackagePath": "staticwebassets\\Img\\22.PNG"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\Img\\3.jfif",
+      "PackagePath": "staticwebassets\\Img\\3.jfif"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\Img\\33.jpeg",
+      "PackagePath": "staticwebassets\\Img\\33.jpeg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\Img\\Add.jpg",
+      "PackagePath": "staticwebassets\\Img\\Add.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\Img\\Ashl-removebg-preview.png",
+      "PackagePath": "staticwebassets\\Img\\Ashl-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\Img\\Awn.png",
+      "PackagePath": "staticwebassets\\Img\\Awn.png"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\Img\\CB2.png",
+      "PackagePath": "staticwebassets\\Img\\CB2.png"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\Img\\Herman.jpg",
+      "PackagePath": "staticwebassets\\Img\\Herman.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\Img\\Herman1.png",
+      "PackagePath": "staticwebassets\\Img\\Herman1.png"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\Img\\Hooker.png",
+      "PackagePath": "staticwebassets\\Img\\Hooker.png"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\Img\\RH.png",
+      "PackagePath": "staticwebassets\\Img\\RH.png"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\Img\\RH1.png",
+      "PackagePath": "staticwebassets\\Img\\RH1.png"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\Img\\RH2.png",
+      "PackagePath": "staticwebassets\\Img\\RH2.png"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\Img\\Wayfair.png",
+      "PackagePath": "staticwebassets\\Img\\Wayfair.png"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\Img\\a.PNG",
+      "PackagePath": "staticwebassets\\Img\\a.PNG"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\Img\\aa.PNG",
+      "PackagePath": "staticwebassets\\Img\\aa.PNG"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\Img\\amazon.PNG",
+      "PackagePath": "staticwebassets\\Img\\amazon.PNG"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\Img\\amer.PNG",
+      "PackagePath": "staticwebassets\\Img\\amer.PNG"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\Img\\bac.PNG",
+      "PackagePath": "staticwebassets\\Img\\bac.PNG"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\Img\\bat.PNG",
+      "PackagePath": "staticwebassets\\Img\\bat.PNG"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\Img\\bed.jpg",
+      "PackagePath": "staticwebassets\\Img\\bed.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\Img\\ben.png",
+      "PackagePath": "staticwebassets\\Img\\ben.png"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\Img\\ccchhh.jpg",
+      "PackagePath": "staticwebassets\\Img\\ccchhh.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\Img\\ceat.jfif",
+      "PackagePath": "staticwebassets\\Img\\ceat.jfif"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\Img\\civil.jpg",
+      "PackagePath": "staticwebassets\\Img\\civil.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\Img\\clok.jpg",
+      "PackagePath": "staticwebassets\\Img\\clok.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\Img\\closet2.webp",
+      "PackagePath": "staticwebassets\\Img\\closet2.webp"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\Img\\closetooooooo.jpg",
+      "PackagePath": "staticwebassets\\Img\\closetooooooo.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\Img\\crate.png",
+      "PackagePath": "staticwebassets\\Img\\crate.png"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\Img\\cup.PNG",
+      "PackagePath": "staticwebassets\\Img\\cup.PNG"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\Img\\front-view-photo-frame-as-interior-decoration.jpg",
+      "PackagePath": "staticwebassets\\Img\\front-view-photo-frame-as-interior-decoration.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\Img\\go.jfif",
+      "PackagePath": "staticwebassets\\Img\\go.jfif"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\Img\\grad.jpg",
+      "PackagePath": "staticwebassets\\Img\\grad.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\Img\\hap.jpg",
+      "PackagePath": "staticwebassets\\Img\\hap.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\Img\\home.png",
+      "PackagePath": "staticwebassets\\Img\\home.png"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\Img\\ik.jpg",
+      "PackagePath": "staticwebassets\\Img\\ik.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\Img\\ikea.png",
+      "PackagePath": "staticwebassets\\Img\\ikea.png"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\Img\\k.PNG",
+      "PackagePath": "staticwebassets\\Img\\k.PNG"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\Img\\login.PNG",
+      "PackagePath": "staticwebassets\\Img\\login.PNG"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\Img\\logoo.PNG",
+      "PackagePath": "staticwebassets\\Img\\logoo.PNG"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\Img\\reg.jpg",
+      "PackagePath": "staticwebassets\\Img\\reg.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\Img\\rrr.jpg",
+      "PackagePath": "staticwebassets\\Img\\rrr.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\Img\\s1.png",
+      "PackagePath": "staticwebassets\\Img\\s1.png"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\Img\\s2.jpg",
+      "PackagePath": "staticwebassets\\Img\\s2.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\Img\\ser1.webp",
+      "PackagePath": "staticwebassets\\Img\\ser1.webp"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\Img\\sh.jpg",
+      "PackagePath": "staticwebassets\\Img\\sh.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\Img\\t2.PNG",
+      "PackagePath": "staticwebassets\\Img\\t2.PNG"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\Img\\t2.jpg",
+      "PackagePath": "staticwebassets\\Img\\t2.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\Img\\t3.jpg",
+      "PackagePath": "staticwebassets\\Img\\t3.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\Img\\t4.jpg",
+      "PackagePath": "staticwebassets\\Img\\t4.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\Img\\t5.jpg",
+      "PackagePath": "staticwebassets\\Img\\t5.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\Img\\t6.jpg",
+      "PackagePath": "staticwebassets\\Img\\t6.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\Img\\ttt.jpg",
+      "PackagePath": "staticwebassets\\Img\\ttt.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\Img\\ttttttttt.jpg",
+      "PackagePath": "staticwebassets\\Img\\ttttttttt.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\JavaScript.js",
+      "PackagePath": "staticwebassets\\new\\JavaScript.js"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\Slid.css",
+      "PackagePath": "staticwebassets\\new\\Slid.css"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\css2\\.DS_Store",
+      "PackagePath": "staticwebassets\\new\\css2\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\css2\\animate.css",
+      "PackagePath": "staticwebassets\\new\\css2\\animate.css"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\css2\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\new\\css2\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\css2\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\new\\css2\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\css2\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\new\\css2\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\css2\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\new\\css2\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\css2\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\new\\css2\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\css2\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\new\\css2\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\css2\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\new\\css2\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\css2\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\new\\css2\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\css2\\bootstrap-select.css",
+      "PackagePath": "staticwebassets\\new\\css2\\bootstrap-select.css"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\css2\\bootstrap.css",
+      "PackagePath": "staticwebassets\\new\\css2\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\css2\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\new\\css2\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\css2\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\new\\css2\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\css2\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\new\\css2\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\css2\\colors.css",
+      "PackagePath": "staticwebassets\\new\\css2\\colors.css"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\css2\\custom.css",
+      "PackagePath": "staticwebassets\\new\\css2\\custom.css"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\css2\\flaticon.css",
+      "PackagePath": "staticwebassets\\new\\css2\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\css2\\font-awesome.css",
+      "PackagePath": "staticwebassets\\new\\css2\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\css2\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\new\\css2\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\css2\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\new\\css2\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\css2\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\new\\css2\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\css2\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\new\\css2\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\css2\\responsive.css",
+      "PackagePath": "staticwebassets\\new\\css2\\responsive.css"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\css2\\style.css",
+      "PackagePath": "staticwebassets\\new\\css2\\style.css"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\css3\\aos.css",
+      "PackagePath": "staticwebassets\\new\\css3\\aos.css"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\css3\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\new\\css3\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\css3\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\new\\css3\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\css3\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\new\\css3\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\css3\\bootstrap.css",
+      "PackagePath": "staticwebassets\\new\\css3\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\css3\\bootstrap\\mixins\\_text-truncate.css",
+      "PackagePath": "staticwebassets\\new\\css3\\bootstrap\\mixins\\_text-truncate.css"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\css3\\index.html",
+      "PackagePath": "staticwebassets\\new\\css3\\index.html"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\css3\\style.css",
+      "PackagePath": "staticwebassets\\new\\css3\\style.css"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\css3\\tiny-slider.css",
+      "PackagePath": "staticwebassets\\new\\css3\\tiny-slider.css"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\new\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\css\\style.css",
+      "PackagePath": "staticwebassets\\new\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\css\\tiny-slider.css",
+      "PackagePath": "staticwebassets\\new\\css\\tiny-slider.css"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\fonts2\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\new\\fonts2\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\fonts2\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\new\\fonts2\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\fonts2\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\new\\fonts2\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\fonts2\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\new\\fonts2\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\fonts2\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\new\\fonts2\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\fonts2\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\new\\fonts2\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\fonts2\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\new\\fonts2\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\fonts2\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\new\\fonts2\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\fonts2\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\new\\fonts2\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\fonts2\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\new\\fonts2\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\fonts2\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\new\\fonts2\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\fonts3\\flaticon\\backup.txt",
+      "PackagePath": "staticwebassets\\new\\fonts3\\flaticon\\backup.txt"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\fonts3\\flaticon\\font\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\new\\fonts3\\flaticon\\font\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\fonts3\\flaticon\\font\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\new\\fonts3\\flaticon\\font\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\fonts3\\flaticon\\font\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\new\\fonts3\\flaticon\\font\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\fonts3\\flaticon\\font\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\new\\fonts3\\flaticon\\font\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\fonts3\\flaticon\\font\\Flaticon.woff2",
+      "PackagePath": "staticwebassets\\new\\fonts3\\flaticon\\font\\Flaticon.woff2"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\fonts3\\flaticon\\font\\_flaticon.scss",
+      "PackagePath": "staticwebassets\\new\\fonts3\\flaticon\\font\\_flaticon.scss"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\fonts3\\flaticon\\font\\flaticon.css",
+      "PackagePath": "staticwebassets\\new\\fonts3\\flaticon\\font\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\fonts3\\flaticon\\font\\flaticon.html",
+      "PackagePath": "staticwebassets\\new\\fonts3\\flaticon\\font\\flaticon.html"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\fonts3\\flaticon\\license\\license.pdf",
+      "PackagePath": "staticwebassets\\new\\fonts3\\flaticon\\license\\license.pdf"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\fonts3\\icomoon\\Read Me.txt",
+      "PackagePath": "staticwebassets\\new\\fonts3\\icomoon\\Read Me.txt"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\fonts3\\icomoon\\demo-files\\demo.css",
+      "PackagePath": "staticwebassets\\new\\fonts3\\icomoon\\demo-files\\demo.css"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\fonts3\\icomoon\\demo-files\\demo.js",
+      "PackagePath": "staticwebassets\\new\\fonts3\\icomoon\\demo-files\\demo.js"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\fonts3\\icomoon\\demo.html",
+      "PackagePath": "staticwebassets\\new\\fonts3\\icomoon\\demo.html"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\fonts3\\icomoon\\fonts\\icomoon.eot",
+      "PackagePath": "staticwebassets\\new\\fonts3\\icomoon\\fonts\\icomoon.eot"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\fonts3\\icomoon\\fonts\\icomoon.svg",
+      "PackagePath": "staticwebassets\\new\\fonts3\\icomoon\\fonts\\icomoon.svg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\fonts3\\icomoon\\fonts\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\new\\fonts3\\icomoon\\fonts\\icomoon.ttf"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\fonts3\\icomoon\\fonts\\icomoon.woff",
+      "PackagePath": "staticwebassets\\new\\fonts3\\icomoon\\fonts\\icomoon.woff"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\fonts3\\icomoon\\selection.json",
+      "PackagePath": "staticwebassets\\new\\fonts3\\icomoon\\selection.json"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\fonts3\\icomoon\\style.css",
+      "PackagePath": "staticwebassets\\new\\fonts3\\icomoon\\style.css"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\fonts3\\index.html",
+      "PackagePath": "staticwebassets\\new\\fonts3\\index.html"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images2\\.DS_Store",
+      "PackagePath": "staticwebassets\\new\\images2\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images2\\about_img.png",
+      "PackagePath": "staticwebassets\\new\\images2\\about_img.png"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images2\\arr_logo.png",
+      "PackagePath": "staticwebassets\\new\\images2\\arr_logo.png"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images2\\blog1.png",
+      "PackagePath": "staticwebassets\\new\\images2\\blog1.png"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images2\\blog2.png",
+      "PackagePath": "staticwebassets\\new\\images2\\blog2.png"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images2\\call_back.png",
+      "PackagePath": "staticwebassets\\new\\images2\\call_back.png"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images2\\call_back_img.png",
+      "PackagePath": "staticwebassets\\new\\images2\\call_back_img.png"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images2\\contact_banner.png",
+      "PackagePath": "staticwebassets\\new\\images2\\contact_banner.png"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images2\\f_in_blog.png",
+      "PackagePath": "staticwebassets\\new\\images2\\f_in_blog.png"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images2\\f_in_blog2.png",
+      "PackagePath": "staticwebassets\\new\\images2\\f_in_blog2.png"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images2\\footer_img.png",
+      "PackagePath": "staticwebassets\\new\\images2\\footer_img.png"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images2\\inner_page_banner.png",
+      "PackagePath": "staticwebassets\\new\\images2\\inner_page_banner.png"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images2\\lamp.png",
+      "PackagePath": "staticwebassets\\new\\images2\\lamp.png"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images2\\layout_img\\accepted.png",
+      "PackagePath": "staticwebassets\\new\\images2\\layout_img\\accepted.png"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images2\\layout_img\\news_icon.png",
+      "PackagePath": "staticwebassets\\new\\images2\\layout_img\\news_icon.png"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images2\\layout_img\\quate_left_test.png",
+      "PackagePath": "staticwebassets\\new\\images2\\layout_img\\quate_left_test.png"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images2\\layout_img\\testimo_profile.png",
+      "PackagePath": "staticwebassets\\new\\images2\\layout_img\\testimo_profile.png"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images2\\like_btn.png",
+      "PackagePath": "staticwebassets\\new\\images2\\like_btn.png"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images2\\loading.gif",
+      "PackagePath": "staticwebassets\\new\\images2\\loading.gif"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images2\\msg_btn.png",
+      "PackagePath": "staticwebassets\\new\\images2\\msg_btn.png"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images2\\profile_icon.png",
+      "PackagePath": "staticwebassets\\new\\images2\\profile_icon.png"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images2\\search_icon.png",
+      "PackagePath": "staticwebassets\\new\\images2\\search_icon.png"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images2\\share_btn.png",
+      "PackagePath": "staticwebassets\\new\\images2\\share_btn.png"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images2\\sm1.png",
+      "PackagePath": "staticwebassets\\new\\images2\\sm1.png"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images2\\sm2.png",
+      "PackagePath": "staticwebassets\\new\\images2\\sm2.png"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images2\\sm3.png",
+      "PackagePath": "staticwebassets\\new\\images2\\sm3.png"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images2\\sm4.png",
+      "PackagePath": "staticwebassets\\new\\images2\\sm4.png"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images2\\t1.jpg",
+      "PackagePath": "staticwebassets\\new\\images2\\t1.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images2\\t2.jpg",
+      "PackagePath": "staticwebassets\\new\\images2\\t2.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images2\\t3.jpg",
+      "PackagePath": "staticwebassets\\new\\images2\\t3.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images2\\t4.jpg",
+      "PackagePath": "staticwebassets\\new\\images2\\t4.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images2\\wd_1.png",
+      "PackagePath": "staticwebassets\\new\\images2\\wd_1.png"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images2\\wd_2.png",
+      "PackagePath": "staticwebassets\\new\\images2\\wd_2.png"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images3\\dots.png",
+      "PackagePath": "staticwebassets\\new\\images3\\dots.png"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images3\\hero_bg_1.jpg",
+      "PackagePath": "staticwebassets\\new\\images3\\hero_bg_1.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images3\\hero_bg_2.jpg",
+      "PackagePath": "staticwebassets\\new\\images3\\hero_bg_2.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images3\\hero_bg_3.jpg",
+      "PackagePath": "staticwebassets\\new\\images3\\hero_bg_3.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images3\\img_1.jpg",
+      "PackagePath": "staticwebassets\\new\\images3\\img_1.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images3\\img_2.jpg",
+      "PackagePath": "staticwebassets\\new\\images3\\img_2.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images3\\img_3.jpg",
+      "PackagePath": "staticwebassets\\new\\images3\\img_3.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images3\\img_4.jpg",
+      "PackagePath": "staticwebassets\\new\\images3\\img_4.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images3\\img_5.jpg",
+      "PackagePath": "staticwebassets\\new\\images3\\img_5.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images3\\img_6.jpg",
+      "PackagePath": "staticwebassets\\new\\images3\\img_6.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images3\\img_7.jpg",
+      "PackagePath": "staticwebassets\\new\\images3\\img_7.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images3\\img_8.jpg",
+      "PackagePath": "staticwebassets\\new\\images3\\img_8.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images3\\index.html",
+      "PackagePath": "staticwebassets\\new\\images3\\index.html"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images3\\person_1-min.jpg",
+      "PackagePath": "staticwebassets\\new\\images3\\person_1-min.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images3\\person_2-min.jpg",
+      "PackagePath": "staticwebassets\\new\\images3\\person_2-min.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images3\\person_3-min.jpg",
+      "PackagePath": "staticwebassets\\new\\images3\\person_3-min.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images3\\person_4-min.jpg",
+      "PackagePath": "staticwebassets\\new\\images3\\person_4-min.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images3\\person_5-min.jpg",
+      "PackagePath": "staticwebassets\\new\\images3\\person_5-min.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images3\\person_6-min.jpg",
+      "PackagePath": "staticwebassets\\new\\images3\\person_6-min.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images\\bag.svg",
+      "PackagePath": "staticwebassets\\new\\images\\bag.svg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images\\bowl-2.png",
+      "PackagePath": "staticwebassets\\new\\images\\bowl-2.png"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images\\bowl-3.png",
+      "PackagePath": "staticwebassets\\new\\images\\bowl-3.png"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images\\cart.svg",
+      "PackagePath": "staticwebassets\\new\\images\\cart.svg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images\\couch.png",
+      "PackagePath": "staticwebassets\\new\\images\\couch.png"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images\\cross.svg",
+      "PackagePath": "staticwebassets\\new\\images\\cross.svg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images\\d2.svg",
+      "PackagePath": "staticwebassets\\new\\images\\d2.svg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images\\d3.png",
+      "PackagePath": "staticwebassets\\new\\images\\d3.png"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images\\dots-green.svg",
+      "PackagePath": "staticwebassets\\new\\images\\dots-green.svg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images\\dots-light.svg",
+      "PackagePath": "staticwebassets\\new\\images\\dots-light.svg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images\\dots-yellow.svg",
+      "PackagePath": "staticwebassets\\new\\images\\dots-yellow.svg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images\\download.svg",
+      "PackagePath": "staticwebassets\\new\\images\\download.svg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images\\envelope-outline.svg",
+      "PackagePath": "staticwebassets\\new\\images\\envelope-outline.svg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images\\g.png",
+      "PackagePath": "staticwebassets\\new\\images\\g.png"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images\\g22.png",
+      "PackagePath": "staticwebassets\\new\\images\\g22.png"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images\\gar.jpg",
+      "PackagePath": "staticwebassets\\new\\images\\gar.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images\\img-grid-1.jpg",
+      "PackagePath": "staticwebassets\\new\\images\\img-grid-1.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images\\img-grid-2.jpg",
+      "PackagePath": "staticwebassets\\new\\images\\img-grid-2.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images\\img-grid-3.jpg",
+      "PackagePath": "staticwebassets\\new\\images\\img-grid-3.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images\\ll2.PNG",
+      "PackagePath": "staticwebassets\\new\\images\\ll2.PNG"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images\\person-1.jpg",
+      "PackagePath": "staticwebassets\\new\\images\\person-1.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images\\person-1.png",
+      "PackagePath": "staticwebassets\\new\\images\\person-1.png"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images\\person_1.jpg",
+      "PackagePath": "staticwebassets\\new\\images\\person_1.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images\\person_2.jpg",
+      "PackagePath": "staticwebassets\\new\\images\\person_2.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images\\person_3.jpg",
+      "PackagePath": "staticwebassets\\new\\images\\person_3.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images\\person_4.jpg",
+      "PackagePath": "staticwebassets\\new\\images\\person_4.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images\\post-1.jpg",
+      "PackagePath": "staticwebassets\\new\\images\\post-1.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images\\post-2.jpg",
+      "PackagePath": "staticwebassets\\new\\images\\post-2.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images\\post-3.jpg",
+      "PackagePath": "staticwebassets\\new\\images\\post-3.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images\\product-1.png",
+      "PackagePath": "staticwebassets\\new\\images\\product-1.png"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images\\product-2.png",
+      "PackagePath": "staticwebassets\\new\\images\\product-2.png"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images\\product-3.png",
+      "PackagePath": "staticwebassets\\new\\images\\product-3.png"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images\\return.svg",
+      "PackagePath": "staticwebassets\\new\\images\\return.svg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images\\sofa.png",
+      "PackagePath": "staticwebassets\\new\\images\\sofa.png"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images\\support.svg",
+      "PackagePath": "staticwebassets\\new\\images\\support.svg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images\\truck.svg",
+      "PackagePath": "staticwebassets\\new\\images\\truck.svg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images\\user.svg",
+      "PackagePath": "staticwebassets\\new\\images\\user.svg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\images\\why-choose-us-img.jpg",
+      "PackagePath": "staticwebassets\\new\\images\\why-choose-us-img.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\img\\1.jpg",
+      "PackagePath": "staticwebassets\\new\\img\\1.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\img\\2.jpg",
+      "PackagePath": "staticwebassets\\new\\img\\2.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\img\\3.jpg",
+      "PackagePath": "staticwebassets\\new\\img\\3.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\img\\Add.jpg",
+      "PackagePath": "staticwebassets\\new\\img\\Add.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\img\\Awn.png",
+      "PackagePath": "staticwebassets\\new\\img\\Awn.png"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\img\\Cate.PNG",
+      "PackagePath": "staticwebassets\\new\\img\\Cate.PNG"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\img\\ll2.PNG",
+      "PackagePath": "staticwebassets\\new\\img\\ll2.PNG"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\img\\login.PNG",
+      "PackagePath": "staticwebassets\\new\\img\\login.PNG"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\img\\reg.jpg",
+      "PackagePath": "staticwebassets\\new\\img\\reg.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\img\\t3.jpg",
+      "PackagePath": "staticwebassets\\new\\img\\t3.jpg"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\js2\\.DS_Store",
+      "PackagePath": "staticwebassets\\new\\js2\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\js2\\app.js",
+      "PackagePath": "staticwebassets\\new\\js2\\app.js"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\js2\\bootstrap-datetimepicker.min.js",
+      "PackagePath": "staticwebassets\\new\\js2\\bootstrap-datetimepicker.min.js"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\js2\\bootstrap-select.js",
+      "PackagePath": "staticwebassets\\new\\js2\\bootstrap-select.js"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\js2\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\new\\js2\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\js2\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\new\\js2\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\js2\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\new\\js2\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\js2\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\new\\js2\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\js2\\bootstrap.js",
+      "PackagePath": "staticwebassets\\new\\js2\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\js2\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\new\\js2\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\js2\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\new\\js2\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\js2\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\new\\js2\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\js2\\custom.js",
+      "PackagePath": "staticwebassets\\new\\js2\\custom.js"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\js2\\highlight.js",
+      "PackagePath": "staticwebassets\\new\\js2\\highlight.js"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\js2\\jquery.min.js",
+      "PackagePath": "staticwebassets\\new\\js2\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\js2\\jquery.mousewheel.min.js",
+      "PackagePath": "staticwebassets\\new\\js2\\jquery.mousewheel.min.js"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\js2\\menumaker.js",
+      "PackagePath": "staticwebassets\\new\\js2\\menumaker.js"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\js2\\moment.min.js",
+      "PackagePath": "staticwebassets\\new\\js2\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\js2\\npm.js",
+      "PackagePath": "staticwebassets\\new\\js2\\npm.js"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\js2\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\new\\js2\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\js2\\popper.min.js",
+      "PackagePath": "staticwebassets\\new\\js2\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\js2\\scrollbot.js",
+      "PackagePath": "staticwebassets\\new\\js2\\scrollbot.js"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\js2\\scrollreveal.min.js",
+      "PackagePath": "staticwebassets\\new\\js2\\scrollreveal.min.js"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\js2\\wow.js",
+      "PackagePath": "staticwebassets\\new\\js2\\wow.js"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\js3\\aos.js",
+      "PackagePath": "staticwebassets\\new\\js3\\aos.js"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\js3\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\new\\js3\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\js3\\counter.js",
+      "PackagePath": "staticwebassets\\new\\js3\\counter.js"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\js3\\custom.js",
+      "PackagePath": "staticwebassets\\new\\js3\\custom.js"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\js3\\index.html",
+      "PackagePath": "staticwebassets\\new\\js3\\index.html"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\js3\\navbar.js",
+      "PackagePath": "staticwebassets\\new\\js3\\navbar.js"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\js3\\tiny-slider.js",
+      "PackagePath": "staticwebassets\\new\\js3\\tiny-slider.js"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\new\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\js\\custom.js",
+      "PackagePath": "staticwebassets\\new\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Masters3\\Masters3\\wwwroot\\new\\js\\tiny-slider.js",
+      "PackagePath": "staticwebassets\\new\\js\\tiny-slider.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Masters3.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Masters3.props",
+      "PackagePath": "build\\Masters3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Masters3.props",
+      "PackagePath": "buildMultiTargeting\\Masters3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Masters3.props",
+      "PackagePath": "buildTransitive\\Masters3.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

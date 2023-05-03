@@ -1,0 +1,73 @@
+﻿@model IEnumerable<User>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "AdminLayout";
+}
+<style>
+    .thumbnail {
+        top: -50px;
+        left: -35px;
+        display: block;
+        z-index: 999;
+        cursor: pointer;
+        -webkit-transition-property: all;
+        -webkit-transition-duration: 0.3s;
+        -webkit-transition-timing-function: ease;
+    }
+
+
+        .thumbnail:hover {
+            transform: scale(5);
+        }
+</style>
+
+<h1>Registered User</h1>
+<form asp-action="User" asp-controller="Admin" method="post">
+    <input  type="text" id="name" name="name" placeholder="Search By User Name"/> 
+    <input type="submit" value="Search" class="btn btn-success" />
+</form>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                  User Name
+            </th>
+            <th>
+                 Email
+
+            </th>
+            <th>
+
+                Phone Number
+
+            </th>
+            <th>
+
+                Image
+
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UserName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Email)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PhoneNumber)
+                </td>
+                <td>
+                  
+                    <img src="~/Img/@item.Imagepath" width="50" class="thumbnail" />
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

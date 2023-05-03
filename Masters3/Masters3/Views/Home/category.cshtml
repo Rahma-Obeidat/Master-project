@@ -1,0 +1,60 @@
+﻿@model IEnumerable<Category>
+@{
+    Layout = "_Layout1";
+}
+<div class="hero">
+    <div class="container">
+        <div class="row justify-content-between">
+            <div class="col-lg-5">
+                <div class="intro-excerpt">
+                    <h1>Categories</h1>
+                    <p class="mb-4">You can choose the categories to see the products to be purchased from each category.</p>
+                    <p><a href="" class="btn btn-secondary me-2">Shop Now</a><!--<a href="#" class="btn btn-white-outline">Explore</a>--></p>
+                </div>
+            </div>
+            <div class="col-lg-7">
+                <div class="hero-img-wrap">
+                    <img src="~/new/images/couch.png" class="img-fluid">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<br />
+<br />
+<!-- End Hero Section -->
+<div class="container">
+    <form asp-action="category" asp-controller="Home" method="post" class="<!--narrow-w form-search d-flex align-items-stretch mb-3-->" data-aos="fade-up" data-aos-delay="200">
+        <input type="text" class="form-control px-4" placeholder="Search By Category Name" id="name" name="name" style="width:40%">
+        <input type="submit" class="btn btn-primary" style="margin-top:0; width:10%" value="Search">
+    </form>
+
+</div>
+
+<section class="layout_padding what_we_do">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="full heading_s1">
+                    <h3 style="text-align:center">Our Categories</h3>
+                    <!--<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit..</p>-->
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                <div class="col-md-3">
+                    <div class="full decorate_blog">
+                        <img src="~/Img/@item.ImagePath" alt="#" width="170px" height="170px" />
+                        <a class="decorate_blog_bt" asp-controller="Home" asp-action="product" asp-route-id="@item.Id">@item.CategoryName</a>
+                    </div>
+                </div>
+            }
+
+        </div>
+
+    </div>
+</section>
+<br />
+<br />

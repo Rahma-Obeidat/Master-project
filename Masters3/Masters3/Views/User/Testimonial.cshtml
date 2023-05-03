@@ -1,0 +1,38 @@
+﻿@{
+    Layout = "_Layout1";
+}
+
+
+<!DOCTYPE html>
+<html>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body>
+    <br /><br /><br />
+
+<div class="w3-container">
+        <form asp-action="Testimonial" asp-controller="User" method="post">
+  <div class="w3-card-4" style="width:50%;">
+            <header style="color:#3b5d50" class="w3-container">
+      <h1>Write Your Opinion! </h1>
+    </header>
+    <br /><br />
+    <div class="w3-container">
+                <textarea class="form-control" maxlength="300" placeholder="Write Your Opinion" id="message" name="message">
+
+      </textarea><br /><br />
+    </div>
+
+            <footer style="color:#3b5d50" class="w3-container">
+                <input type="submit" value="Send" class="btn" style="color:white; background-color:#3b5d50 " />
+    </footer>
+    <br /><br />
+  </div>
+  </form>
+</div>
+    <br />
+    <br />
+    <br />
+</body>
+</html>
